@@ -1,0 +1,1 @@
+***** this is a simple project on using java.math class and using random() method on creating a simple probability project ****
