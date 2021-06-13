@@ -7,9 +7,10 @@ import java.lang.Math;
 public class GameGeneratingNumber {
 
 	public static void main(String[] args) {
-		
+		 
+
 		Scanner sc = new Scanner(System.in);
-		
+
 		int max = 30, min = 0, value, userValue;
 		int i=5;
 		while(i-->0) {
